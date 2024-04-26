@@ -1,0 +1,19 @@
+#root {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+
+    position: relative;
+
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
