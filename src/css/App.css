@@ -7,6 +7,10 @@
     justify-content: center;
 }
 
+.board-row{
+    display: flex;
+}
+
 .square {
     width: 100px;
     height: 100px;
